@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "firstName": "Will",
+    "lastName": "Smith",
+    "country": "USA",
+    "age": 55
+  },
+  {
+    "id": 2,
+    "firstName": "Sergei",
+    "lastName": "Golidonov",
+    "country": "RU",
+    "age": 36
+  }
+]

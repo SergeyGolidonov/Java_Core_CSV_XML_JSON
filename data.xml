@@ -1,0 +1,16 @@
+<staff>
+    <employee>
+        <id>1</id>
+        <firstName>Will</firstName>
+        <lastName>Smith</lastName>
+        <country>USA</country>
+        <age>55</age>
+    </employee>
+    <employee>
+        <id>2</id>
+        <firstName>Sergei</firstName>
+        <lastName>Golidonov</lastName>
+        <country>RU</country>
+        <age>36</age>
+    </employee>
+</staff>
